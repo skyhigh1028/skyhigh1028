@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Comix",
+    "id": 4069247811,
+    "baseUrl": "https://comix.to",
+    "lang": "en",
+    "typeSource": "single",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=256&domain=https://comix.to",
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "isNsfw": false,
+    "hasCloudflare": true,
+    "sourceCodeUrl": "https://raw.githubusercontent.com/skyhigh1028/skyhigh1028/main/comix-mangayomi/javascript/manga/src/en/comix.js",
+    "apiUrl": "https://comix-api.vercel.app/api",
+    "version": "0.1.0",
+    "isManga": true,
+    "itemType": 0,
+    "isFullData": false,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 1,
+    "notes": "Uses the unofficial Comix API proxy for chapter/image extraction because Comix reader API responses are encrypted."
+  }
+]
